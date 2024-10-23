@@ -1,4 +1,4 @@
-import cmath  # Para manejar raíces complejas
+import cmath  
 
 def calcular_discriminante(a, b, c):
     """Calcula el discriminante de la ecuación cuadrática."""
